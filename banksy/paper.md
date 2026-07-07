@@ -1,5 +1,21 @@
 # Investigative Analysis of Banksy: Assessing the Probability of Multiple Artists
 
+## Introduction
+
+While visiting the Banksy Museum in Madrid, Spain—which I would highly recommend—I noticed what appeared to be inconsistencies across several works. In particular, differences in the outline of figures, the treatment of feet and hands, and the use of negative space led me to wonder whether these variations reflected the natural evolution of a single artist or evidence of multiple artists working under the Banksy name.
+
+As someone whose professional background is rooted in cybersecurity and forensic investigation, I found myself approaching the question differently than an art historian might. Rather than asking “Who is Banksy?”, I became interested in a narrower and more answerable question:
+
+Is the publicly attributed body of work more consistent with one evolving creative director or multiple independent creative leaders?
+
+This distinction became the foundation of the research. The objective was never to identify Banksy, but to determine what conclusions could reasonably be drawn from publicly available evidence.
+
+The investigation followed the same analytical principles used in technical investigations: define the question, identify assumptions, distinguish evidence from inference, evaluate competing hypotheses, and accept uncertainty where the evidence is insufficient.
+
+What began as a casual observation while walking through a museum ultimately became an exercise in structured investigation—using Banksy as a case study for understanding how complex questions can be reduced into smaller, answerable ones without claiming certainty where none exists.
+
+---
+
 ## Executive Summary
 
 This paper examines whether the body of work attributed to Banksy is more consistent with a single evolving creative director or multiple independent artists working under a common identity.
@@ -18,7 +34,7 @@ The strongest evidence supporting a single creative vision is the remarkable con
 
 ---
 
-# Methodology
+## Methodology
 
 This analysis is not intended to identify Banksy or prove the identity of any individual. Instead, it evaluates competing hypotheses regarding the likelihood of a single creative director versus multiple independent creative leaders by examining observable evidence.
 
@@ -51,7 +67,7 @@ Throughout this paper, evidence supporting increasing execution complexity is no
 
 ---
 
-# Assumptions
+## Assumptions
 
 The following assumptions were used throughout the analysis.
 
@@ -88,11 +104,11 @@ The existence of assistants does not necessarily imply multiple creative directo
 
 ---
 
-# Historical Evolution
+## Historical Evolution
 
-## Stage 1 — Bristol Apprenticeship (Late 1980s–1995)
+### Stage 1 — Bristol Apprenticeship (Late 1980s–1995)
 
-### Characteristics
+#### Characteristics
 
 - Freehand graffiti
 - Early experimentation
@@ -100,23 +116,23 @@ The existence of assistants does not necessarily imply multiple creative directo
 - Local political references
 - Simple compositions
 
-### Medium
+#### Medium
 
 - Aerosol paint
 - Walls
 
-### Negative Space
+#### Negative Space
 
 - Minimal planning
 - Functional rather than compositional
 
-### Themes
+#### Themes
 
 - Anti-authoritarian
 - Urban youth culture
 - Local conflict
 
-### Humor
+#### Humor
 
 Already recognizable through visual irony.
 
@@ -126,9 +142,9 @@ Typical progression expected from a developing graffiti artist.
 
 ---
 
-## Stage 2 — Classical Banksy (1995–2005)
+### Stage 2 — Classical Banksy (1995–2005)
 
-### Characteristics
+#### Characteristics
 
 - Mature stencil technique
 - Crisp silhouettes
@@ -136,18 +152,18 @@ Typical progression expected from a developing graffiti artist.
 - Large negative spaces
 - Strong visual economy
 
-### Medium
+#### Medium
 
 - Spray paint
 - Multi-layer stencils
 
-### Negative Space
+#### Negative Space
 
 Becomes a defining design element.
 
 Untouched wall functions as part of the artwork.
 
-### Themes
+#### Themes
 
 - War
 - Consumerism
@@ -155,7 +171,7 @@ Untouched wall functions as part of the artwork.
 - Children
 - Authority
 
-### Humor
+#### Humor
 
 Highly consistent.
 
@@ -167,9 +183,9 @@ Rapid technical improvement without abrupt stylistic discontinuity.
 
 ---
 
-## Stage 3 — International Expansion (2005–2010)
+### Stage 3 — International Expansion (2005–2010)
 
-### Characteristics
+#### Characteristics
 
 - Palestine
 - New Orleans
@@ -177,19 +193,19 @@ Rapid technical improvement without abrupt stylistic discontinuity.
 - New York
 - Larger works
 
-### Medium
+#### Medium
 
 - Stencils
 - Mixed media
 - Installations
 
-### Negative Space
+#### Negative Space
 
 Increasing integration with architecture.
 
 Walls become part of the composition rather than merely backgrounds.
 
-### Themes
+#### Themes
 
 Expand geographically while remaining philosophically consistent.
 
@@ -199,9 +215,9 @@ Operational complexity increases dramatically while artistic voice remains stabl
 
 ---
 
-## Stage 4 — Conceptual Artist (2010–Present)
+### Stage 4 — Conceptual Artist (2010–Present)
 
-### Characteristics
+#### Characteristics
 
 - Sculptures
 - Film
@@ -210,7 +226,7 @@ Operational complexity increases dramatically while artistic voice remains stabl
 - Museums
 - Performance art
 
-### Medium
+#### Medium
 
 - Mixed media
 - Architecture
@@ -218,13 +234,13 @@ Operational complexity increases dramatically while artistic voice remains stabl
 - Canvas
 - Sculpture
 
-### Negative Space
+#### Negative Space
 
 Transitions from painted space to environmental space.
 
 Entire rooms become compositional elements.
 
-### Themes
+#### Themes
 
 Remain remarkably consistent despite expansion of medium.
 
@@ -234,7 +250,7 @@ Requires large teams but still exhibits one coherent creative philosophy.
 
 ---
 
-# Evolution of Negative Space
+## Evolution of Negative Space
 
 One observation from this investigation concerns Banksy's increasing sophistication in the use of negative space.
 
@@ -260,15 +276,15 @@ Rather than indicating multiple artists, this evolution closely follows the incr
 
 ---
 
-# Consistency Across Time
+## Consistency Across Time
 
-## Humor
+### Humor
 
 Banksy's visual jokes remain structurally similar over three decades.
 
 This consistency is difficult to imitate and may represent the strongest evidence of a single creative voice.
 
-## Symbolism
+### Symbolism
 
 Recurring imagery includes:
 
@@ -282,7 +298,7 @@ Recurring imagery includes:
 
 These symbols evolve but do not fundamentally change.
 
-## Political Philosophy
+### Political Philosophy
 
 Themes consistently favor:
 
@@ -298,7 +314,7 @@ The philosophy does not.
 
 ---
 
-# Commercial Evolution
+## Commercial Evolution
 
 Timeline:
 
@@ -311,15 +327,15 @@ The commercial progression appears gradual rather than sudden.
 
 ---
 
-# Comparison with Invader
+## Comparison with Invader
 
-## Background
+### Background
 
 Invader is a French street artist who emerged in Paris in 1996 and remains one of the world's most recognizable anonymous street artists. Rather than using spray paint and stencils, Invader installs ceramic mosaic tiles inspired by the pixelated graphics of early video games, particularly *Space Invaders*. His work has appeared in hundreds of cities worldwide, and he continues to operate under a pseudonym while maintaining a largely anonymous public identity.
 
 Unlike Banksy, whose work centers on political and social commentary, Invader's work focuses on urban exploration, playful interaction with public spaces, and the concept of a worldwide "invasion" through recurring mosaic installations. Because Invader has remained anonymous for decades while producing a substantial international body of work, he provides a useful comparison when evaluating whether long-term anonymity requires multiple creators.
 
-## Comparative Analysis
+### Comparative Analysis
 
 | Characteristic | Banksy | Invader |
 |----------------|---------|----------|
@@ -332,7 +348,7 @@ Unlike Banksy, whose work centers on political and social commentary, Invader's 
 | Visual consistency | Moderate | Very High |
 | Brand consistency | Very High | Very High |
 
-### Key Observations
+#### Key Observations
 
 Invader demonstrates that anonymity itself does not require a collective.
 
@@ -344,7 +360,7 @@ This comparison suggests that long-term artistic evolution alone is not sufficie
 
 ---
 
-# Evidence Supporting Multiple Artists
+## Evidence Supporting Multiple Artists
 
 1. Dramatic increase in project scale.
 
@@ -358,7 +374,7 @@ They do not necessarily require multiple creative directors.
 
 ---
 
-# Evidence Supporting a Single Creative Director
+## Evidence Supporting a Single Creative Director
 
 The following characteristics remain unusually stable throughout the career:
 
@@ -373,11 +389,11 @@ These characteristics are generally more difficult to replicate than technical e
 
 ---
 
-# Limitations
+## Limitations
 
 Several important limitations should be considered when interpreting this analysis.
 
-## Incomplete Historical Record
+### Incomplete Historical Record
 
 Graffiti is inherently temporary.
 
@@ -387,7 +403,7 @@ Consequently, the earliest documented works should not be interpreted as the art
 
 ⸻
 
-## Authentication Bias
+### Authentication Bias
 
 The analysis relies primarily on works generally accepted as authentic.
 
@@ -395,7 +411,7 @@ Unknown or disputed works were intentionally excluded because attribution uncert
 
 ⸻
 
-## Limited Material Analysis
+### Limited Material Analysis
 
 The paper does not rely upon laboratory examination of paint chemistry, stencil construction, canvas preparation, or other forensic material evidence.
 
@@ -403,7 +419,7 @@ Such information is either unavailable or exists only for a limited number of au
 
 ⸻
 
-## Organizational Opacity
+### Organizational Opacity
 
 Banksy’s commercial and administrative operations have been intentionally designed to preserve anonymity.
 
@@ -411,7 +427,7 @@ Public information regarding assistants, financial organization, studio operatio
 
 ⸻
 
-## Comparison Limitations
+### Comparison Limitations
 
 Invader serves as a useful control subject because he represents another anonymous international street artist with a decades-long career.
 
@@ -423,7 +439,7 @@ The comparison therefore evaluates organizational and artistic evolution rather 
 
 ⸻
 
-## Probability Estimates
+### Probability Estimates
 
 The probability estimates presented throughout this paper are analytical judgments rather than mathematically derived probabilities.
 
@@ -433,7 +449,7 @@ Future discoveries—including authenticated early works, documentary evidence, 
 
 ⸻
 
-## Scope
+### Scope
 
 This paper intentionally avoids speculation regarding the personal identity of Banksy.
 
@@ -449,7 +465,7 @@ The objective is not to determine who Banksy is, but rather to evaluate whether 
 
 ---
 
-# Conclusion
+## Conclusion
 
 The historical record suggests an artist who began within the Bristol graffiti scene, gradually refined a distinctive stencil language, achieved commercial success through exhibitions and print sales, and subsequently expanded into increasingly ambitious international projects.
 
