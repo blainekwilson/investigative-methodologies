@@ -18,6 +18,39 @@ The strongest evidence supporting a single creative vision is the remarkable con
 
 ---
 
+# Methodology
+
+This analysis is not intended to identify Banksy or prove the identity of any individual. Instead, it evaluates competing hypotheses regarding the likelihood of a single creative director versus multiple independent creative leaders by examining observable evidence.
+
+The methodology borrows concepts from forensic investigation, historical research, and cybersecurity attribution, where conclusions are drawn from numerous independent indicators rather than any single piece of evidence.
+
+The analysis considers the following categories:
+
+* Historical chronology
+* Geographic distribution of authenticated works
+* Evolution of artistic technique
+* Evolution of medium
+* Use of negative space
+* Consistency of symbolism
+* Consistency of humor
+* Consistency of political philosophy
+* Growth in operational complexity
+* Commercial development
+* Comparison with a control subject (Invader)
+
+Rather than treating any individual observation as conclusive, each observation is considered a probabilistic indicator that either strengthens or weakens competing hypotheses.
+
+The resulting probability estimates represent structured analytical judgment based on publicly available evidence and should not be interpreted as statistical measurements or proof.
+
+This methodology intentionally distinguishes between:
+
+* Creative direction — the generation of ideas, composition, symbolism, humor, and artistic philosophy.
+* Execution — fabrication, painting, installation, logistics, transportation, documentation, and commercial administration.
+
+Throughout this paper, evidence supporting increasing execution complexity is not automatically interpreted as evidence for multiple creative directors.
+
+---
+
 # Assumptions
 
 The following assumptions were used throughout the analysis.
@@ -337,6 +370,82 @@ The following characteristics remain unusually stable throughout the career:
 - compositional balance
 
 These characteristics are generally more difficult to replicate than technical execution.
+
+---
+
+# Limitations
+
+Several important limitations should be considered when interpreting this analysis.
+
+## Incomplete Historical Record
+
+Graffiti is inherently temporary.
+
+Many early Banksy works were almost certainly painted over, destroyed, or never photographed.
+
+Consequently, the earliest documented works should not be interpreted as the artist’s first works.
+
+⸻
+
+## Authentication Bias
+
+The analysis relies primarily on works generally accepted as authentic.
+
+Unknown or disputed works were intentionally excluded because attribution uncertainty would weaken the analysis.
+
+⸻
+
+## Limited Material Analysis
+
+The paper does not rely upon laboratory examination of paint chemistry, stencil construction, canvas preparation, or other forensic material evidence.
+
+Such information is either unavailable or exists only for a limited number of authenticated works.
+
+⸻
+
+## Organizational Opacity
+
+Banksy’s commercial and administrative operations have been intentionally designed to preserve anonymity.
+
+Public information regarding assistants, financial organization, studio operations, and logistics is therefore incomplete.
+
+⸻
+
+## Comparison Limitations
+
+Invader serves as a useful control subject because he represents another anonymous international street artist with a decades-long career.
+
+However, the missions of the two artists differ substantially.
+
+Banksy’s work emphasizes political and social commentary while Invader focuses primarily on urban intervention and visual playfulness.
+
+The comparison therefore evaluates organizational and artistic evolution rather than subject matter.
+
+⸻
+
+## Probability Estimates
+
+The probability estimates presented throughout this paper are analytical judgments rather than mathematically derived probabilities.
+
+They represent the author’s assessment of competing hypotheses after considering all available evidence.
+
+Future discoveries—including authenticated early works, documentary evidence, interviews, or forensic analysis—could significantly strengthen or weaken these conclusions.
+
+⸻
+
+## Scope
+
+This paper intentionally avoids speculation regarding the personal identity of Banksy.
+
+No conclusions are drawn regarding:
+
+* gender
+* ethnicity
+* religion
+* nationality beyond observable cultural influences
+* proposed identities
+
+The objective is not to determine who Banksy is, but rather to evaluate whether the observable body of work is more consistent with one enduring creative vision or multiple independent creative leaders.
 
 ---
 
